@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  border-radius:12px;
+  border: solid 2px rgba(24, 163, 35, 0.459);
+  padding: 30px;
+  height: 550px;
+  width:400px;
+  margin: 40px auto 0 auto; 
+  background-color: rgba(41, 206, 55, 0.459);
+  overflow: hidden;
+}
+
