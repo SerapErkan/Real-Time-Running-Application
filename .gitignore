@@ -348,3 +348,21 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+intro/src/logo.svg
+intro/src/reportWebVitals.js
+intro/src/setupTests.js
+intro/src/App.test.js
+intro/public/robots.txt
+intro/public/manifest.json
+intro/public/logo512.png
+intro/public/logo192.png
+intro/public/favicon.ico
+intro/README.md
+backend/package-lock.json
+backend/package.json
+backend/README.md
+backend/img/chatappclient.png
+intro/package-lock.json
+intro/package.json
+backend/captain-definition
+intro/public/index.html
